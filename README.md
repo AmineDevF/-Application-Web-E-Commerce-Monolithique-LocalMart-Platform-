@@ -140,12 +140,3 @@ Notifications email (Gmail) lors :
 
 ---
 
-## Livrables Attendus
-
-- Code source versionné sur GitHub
-- Base de données structurée et documentée
-- Documentation technique du projet
-- Application fonctionnelle déployée sur Linux
-
----
-
