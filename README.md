@@ -1,4 +1,4 @@
-#Application Web E-Commerce Monolithique (LocalMart)
+## Application Web E-Commerce Monolithique (LocalMart)
 
 ## Contexte
 
